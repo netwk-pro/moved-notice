@@ -4,8 +4,7 @@ This file is part of Network Pro.
 ========================================================================== -->
 
 <!--
-Network Pro Strategies (Network Pro)
-Copyright © 2025 Scott Lopez
+Copyright © 2025 Network Pro Strategies (Network Pro)
 
 ---
 
@@ -45,66 +44,75 @@ Web: <https://bio.neteng.pro>
 [SPDX-License-Identifier](https://spdx.dev/learn/handling-license-info/):
 `CC-BY-4.0 OR GPL-3.0-or-later`
 
-# <a id="top">Copyright and Licensing</a>
+<a name="top"></a>
+
+# Legal
 
 **Network Pro Strategies**  
-**Effective Date:** 3/4/2025
+**Effective Date:** 3/21/2025
 
 &nbsp;
 
-<!-- markdownlint-disable MD036 -->
-
-**Table of Contents**
-
-<!-- markdownlint-enable MD036 -->
-
-- [Copyright](#copyright)
-  - [Graphics](#graphics)
-  - [Abbreviated Business Name](#netwk-pro)
-- [Licensing](#licensing)
-  - [Are you sure you can do that?](#questions)
-  - [Contact](#contact)
-- [CC BY 4.0](#cc-by)
-- [GNU GPL](#gnu-gpl)
+1. [Licensed Material](#lmaterial)  
+    - [Abbreviated Business Name](#netwk-pro)
+2. [Copyright](#copyright)
+    - [Graphics](#graphics)
+3. [Licensing](#licensing)  
+    - [Are you sure you can do that?](#questions)
+    - [Contact](#contact)
+4. [CC BY 4.0](#cc-by)
+5. [GNU GPL](#gnu-gpl)
+6. [Trademarks](#tm)
+7. [Changes to Legal Information](#changes)
+8. [Attribution](#attribute)
 
 ---
 
-## <a id="copyright">Copyright</a>
+<a name="lmaterial"></a>
 
-<code style="background: none; border: none; border-radius: 0; height: 50vh; outline: none; resize: none; width: 100%;">
+## 1. Licensed Material
 
-**[Network Pro Strategies](https://netwk.pro/) (Network Pro)**  
-Copyright &copy; 2025 **[Scott Lopez](https://bio.neteng.pro)**
+For copyright and licensing purposes, _"Licensed Material"_ includes all public websites and repositories, encompassing text and associated code (e.g., HTML, CSS, JavaScript, Markdown). **This definition explicitly excludes the Network Pro Strategies company as a whole.**
 
-</code>
+The Network Pro Strategies public website serves primarily as an advocacy and awareness platform. While it is referred to as Network Pro™, the company itself remains a distinct and separate entity.
 
-Network Pro Strategies is provided **_as is_** and **_as available_** without any warranties, express or implied. The Licensor makes no representations or
-guarantees regarding the Licensed Material and assumes no liability for its use.
+<a name="netwk-pro"></a>
 
-> > _Unless otherwise noted, Network Pro Strategies (Network Pro) in its'
-> > entirety is available exclusively under the licenses outlined herein._
+### **Use of Abbreviated Business Name**
 
----
-
-### <a id="graphics">Graphics</a>
-
-With respect to original website graphics **_only_**, all rights are reserved. Graphics **are not** to be used under CC BY 4.0 or the GPL. The copyright holder retains exclusive rights to use and release graphic content. See [Contact](#contact) if you'd like to request an exception.
-
----
-
-### <a id="netwk-pro">_Use of Abbreviated Business Name_</a>
-
-For clarity, our _full business name_, **Network Pro Strategies**, and our abbreviated name, **Network Pro**, are legally equivalent. All references to 'Network Pro,' whether in text or code, shall be interpreted as references to the full business name with equal authority.
+For clarity, our _full business name_, **Network Pro Strategies**, and our abbreviated name, **Network Pro&trade;**, are legally equivalent. All references to 'Network Pro&trade;,' whether in text or code, shall be interpreted as references to the full business name with equal authority.
 
 **This equivalency applies across all media and contexts, including but not
 limited to: legal notices, website content, GitHub repositories and code, as
 well as any business-related documentation.**
 
----
+<sub>[Top](#top)</sub>
 
-## <a id="licensing">Licensing</a>
+<a name="copyright"></a>
 
-Network Pro is available under the following licenses:
+## 2. Copyright
+
+Copyright &copy; 2025 **[Network Pro Strategies](https://netwk.pro/)** (Network Pro&trade;)
+
+Network Pro Strategies is provided **_as is_** and **_as available_** without any warranties, express or implied. The Licensor makes no representations or
+guarantees regarding the Licensed Material and assumes no liability for its use.
+
+> > _Unless otherwise noted, Network Pro Strategies (Network Pro&trade;) in its'
+> > entirety is available exclusively under the licenses outlined herein._
+
+<a name="graphics"></a>
+
+### **Graphics**
+
+All rights to original website graphics are **strictly reserved.** These graphics **are not** covered under CC BY 4.0 or the GPL. The copyright holder retains exclusive rights to their use and distribution. To request an exception, see [Contact](#contact).
+
+<sub>[Top](#top)</sub>
+
+<a name="licensing"></a>
+
+## 3. Licensing
+
+Network Pro Strategies ("Company," "we," "us," or "our") is available under the following licenses:
 
 - **[Creative Commons Attribution 4.0 International](#cc-by)** ('CC BY 4.0')
 - **[GNU General Public License](#gnu-gpl)** ('GNU GPL'), either version 3 of
@@ -114,7 +122,9 @@ Network Pro is available under the following licenses:
 
 <!-- markdownlint-disable MD001 -->
 
-#### <a id="questions">_Are you sure you can do that?_</a>
+<a name="questions"></a>
+
+### **Are you sure you can do that?**
 
 <!-- markdownlint-enable MD001 -->
 
@@ -133,25 +143,22 @@ Network Pro is available under the following licenses:
 
 &nbsp;
 
-#### <a id="contact">_Contact_</a>
+<a name="contact"></a>
 
-For questions not covered here, or to request permissions not covered by the
-scope of either license, please email me at `contact (at) neteng.pro`.
+### **Contact**
+
+For inquiries not addressed here or to request additional permissions beyond either license, please contact us via our [contact form](https://contact.neteng.pro) or email `support (at) neteng.pro`.
 
 <sub>[Top](#top)</sub>
 
----
+<a name="cc-by"></a>
 
-## <a id="cc-by">Creative Commons Attribution 4.0 International</a>
+## 4. Creative Commons Attribution 4.0 International
 
 <sup>Formats:
-[Markdown](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/assets/license/CC-BY-4.0.md)
-|
-[XMP](https://raw.githubusercontent.com/NetEng-Pro/neteng-pro.github.io/refs/heads/master/assets/license/CC-BY-4.0.xmp)
-|
-[RDF](https://raw.githubusercontent.com/NetEng-Pro/neteng-pro.github.io/refs/heads/master/assets/license/CC-BY-4.0.rdf)</sup>
+[Markdown](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/assets/license/CC-BY-4.0.md) | [Text](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/assets/license/CC-BY-4.0.txt) | [RDFa](https://raw.githubusercontent.com/netwk-pro/netwk-pro.github.io/refs/heads/master/assets/license/CC-BY-4.0-rdfa.html) | [XMP](https://raw.githubusercontent.com/netwk-pro/netwk-pro.github.io/refs/heads/master/assets/license/CC-BY-4.0.xml)</sup>
 
-Network Pro (the "Licensed Material") is licensed under **Creative
+Network Pro Strategies (the "Licensed Material") is licensed under **Creative
 Commons Attribution 4.0 International** ("CC BY 4.0")
 [<img decoding="async" loading="lazy" style="display: inline-block; height: 18px !important; margin-left: 3px; vertical-align: text-bottom; text-decoration: none;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CC" />](https://creativecommons.org/licenses/by/4.0/)
 [<img decoding="async" loading="lazy" style="display: inline-block; height: 18px !important; margin-left: 3px; vertical-align: text-bottom; text-decoration: none;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY" />](https://creativecommons.org/licenses/by/4.0/).
@@ -182,16 +189,14 @@ this License—may be available as further defined within this document.
 
 <sub>[Top](#top)</sub>
 
----
+<a name="gnu-gpl"></a>
 
-## <a id="gnu-gpl">GNU General Public License</a>
+## 5. GNU General Public License
 
 <sup>Formats:
-[Markdown](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/assets/license/COPYING.md)
-|
-[ODT](https://github.com/NetEng-Pro/neteng-pro.github.io/raw/refs/heads/master/assets/license/COPYING.odt)</sup>
+[Markdown](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/assets/license/COPYING.md) | [Text](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/assets/license/COPYING.txt) | [RDFa](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/assets/license/COPYING-rdfa.html) | [ODT](https://github.com/netwk-pro/netwk-pro.github.io/raw/refs/heads/master/assets/license/COPYING.odt)</sup>
 
-Network Pro (Network Pro) is free software: you can redistribute it
+Network Pro Strategies (Network Pro&trade;) is free software: you can redistribute it
 and/or modify it under the terms of the **GNU General Public License** ("GNU
 GPL") as published by the [Free Software Foundation](https://www.fsf.org/),
 either version 3 of the License, or (at your option) any later version.
@@ -215,14 +220,32 @@ this material. If not, see
 
 <sub>[Top](#top)</sub>
 
----
+<a name="tm"></a>
 
-<code style="background: none; border: none; border-radius: 0; height: 50vh; outline: none; resize: none; width: 100%;">
+## 6. Trademarks
 
-**_Website base structure provided by HTML5 Boilerplate:_**  
+The following trademarks are owned by Network Pro Strategies:
+
+- Network Pro&trade;
+- Our primary logo, known as the "shield logo," featured on our homepage.
+- The slogan: Locking Down Networks, Unlocking Confidence&trade;.
+
+<sub>[Top](#top)</sub>
+
+<a name="changes"></a>
+
+## 7. Changes to Legal Information
+
+We may update this Legal Information periodically. Any changes will be posted on this page with the revised effective date. Updates will align with applicable amendments to the **Arizona Revised Statutes** and **United States Code**.
+
+<sub>[Top](#top)</sub>
+
+<a name="attribute"></a>
+
+## 8. Attribution
+
+Website base structure provided by HTML5 Boilerplate:  
 <https://html5boilerplate.com/>
-
-</code>
 
 ```markdown
 ################################################################################
@@ -251,20 +274,22 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
 
-<span style="font-size: 12px; font-weight: bold; text-align: center;">
+<div style="font-size: 12px; font-weight: bold; text-align: center;">
 
-[Terms and Conditions](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/legal/TERMS.md) &nbsp; | &nbsp; Copyright and Licensing &nbsp; | &nbsp; [Privacy Policy](https://github.com/NetEng-Pro/neteng-pro.github.io/blob/master/legal/PRIVACY.md)
+[Home](https://netwk.pro) &nbsp; | &nbsp; [Terms of Use](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/legal/TERMS.md)  
+[Privacy Policy](https://github.com/netwk-pro/netwk-pro.github.io/blob/master/legal/PRIVACY.md) &nbsp; | &nbsp; Legal
 
-</span>
+</div>
 
 &nbsp;
 
-<span style="font-size: 12px; text-align: center;">
+<div style="font-size: 12px; text-align: center;">
 
-**[Network Pro Strategies](https://netwk.pro/)** (Network Pro)  
-Copyright &copy; 2025 **[Scott Lopez](https://bio.neteng.pro)**
+Copyright &copy; 2025  
+**[Network Pro Strategies](https://netwk.pro/)** (Network Pro&trade;)
 
-Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** and the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)**, as published by the Free Software Foundation,  
-either version 3 of the License, or (at your option) any later version.
+Network Pro&trade;, the shield logo, and the "Locking Down Networks" slogan are trademarks of Network Pro Strategies.
 
-</span>
+Licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** and the **[GNU GPL](https://spdx.org/licenses/GPL-3.0-or-later.html)**, as published by the [Free Software Foundation](https://www.fsf.org), either version 3 of the License, or (at your option) any later version.
+
+</div>
