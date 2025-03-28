@@ -1,8 +1,14 @@
 {
   "name": "moved-notice",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A \"moved\" notice to direct visitors to the correct URL.",
-  "keywords": ["Network", "Pro", "neteng-pro", "netwk-pro", "moved"],
+  "keywords": [
+    "Network",
+    "Pro",
+    "neteng-pro",
+    "netwk-pro",
+    "moved"
+  ],
   "homepage": "https://netwk.pro",
   "bugs": {
     "url": "https://github.com/netwk-pro/netwk-pro.github.io/issues"
